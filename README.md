@@ -1,0 +1,1 @@
+This is a learning project where I have created a simple website for car renting using Angular. In the project I used some interesting things like parallax effect and simple back-end for retrieving data about two types of cars.
